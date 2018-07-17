@@ -115,7 +115,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .hero-container {
-  background: rgba(0, 0, 0, 0.8);
+  background: rgba(0, 0, 0, 0.4);
   display: table-cell;
   margin: 0;
   padding: 0;
@@ -140,7 +140,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero h2 {
   font-family: 'Comfortaa', cursive;
-  color: #999;
+  color: #eee;
   font-weight: 300;
   margin-top: 40px;
   margin-bottom: 15px;
